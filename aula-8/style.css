@@ -148,6 +148,14 @@ body{
 .container .direita .card .fim .resultado .esquerda h2{
     color: #407BFF;
     line-height: 0px;
-    
+}
 
+.container .direita .card .fim .resultado .direita{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
 }
